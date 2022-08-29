@@ -1,0 +1,15 @@
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\bin\Debug\net6.0\L_003.exe
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\bin\Debug\net6.0\L_003.deps.json
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\bin\Debug\net6.0\L_003.runtimeconfig.json
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\bin\Debug\net6.0\L_003.dll
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\bin\Debug\net6.0\L_003.pdb
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.csproj.AssemblyReference.cache
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.AssemblyInfoInputs.cache
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.AssemblyInfo.cs
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.csproj.CoreCompileInputs.cache
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.dll
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\refint\L_003.dll
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.pdb
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\L_003.genruntimeconfig.cache
+D:\geekbrains\C_sharp_Semminary\Lesson_4_Lek\L_003\obj\Debug\net6.0\ref\L_003.dll
